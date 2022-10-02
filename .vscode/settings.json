@@ -1,0 +1,12 @@
+{
+    "json.format.enable": true,
+    "json.schemaDownload.enable": true,
+    "json.schemas": [
+    {
+        "fileMatch": [
+            "/myfile"
+        ],
+        "url": "schemaURL"
+    }
+    ]
+}
